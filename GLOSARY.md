@@ -4,3 +4,4 @@
 * Question: An excersice with a correspondent answer
 * Generate exam: Section on the web that only teachers can enter and download an exam
 * Difficulty Level: A scale from 1 to 5 that sets the difficulty of the question
+* Student: Person who just can access to Challenge
