@@ -9,3 +9,4 @@
 * Teacher: User that can only download and review exams
 * Review :  A way to qualify the questions (good or bad)
 * Download: Download the exam as a PDF with a custom header
+* Upload question: Specific question that a teacher uploads to the web
