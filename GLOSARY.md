@@ -8,4 +8,3 @@
 * Student: Person who just can access to Challenge
 * Teacher: User that can only download and review exams
 * Review :  A way to qualify the questions (good or bad)
-* Tag: Tool for searching problems
