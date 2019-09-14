@@ -12,7 +12,7 @@
 
 ## **Use Cases**
 
-## 1. Generate Challenge
+## 1. _Generate Challenge_
 
 * **Software System**: EasyExam (EE)
 * **Use case**: UC01 - Generate Challenge
@@ -27,7 +27,7 @@
     3. Use case ends.
 
 
-## 2. Accessing Challenges
+## 2. _Accessing Challenges_
 * **Software System**: EasyExam (EE)
 * **Use case**: UC02 - Accessing Challenges
 * **Actor**: Student,System(EE)
