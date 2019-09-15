@@ -6,6 +6,8 @@
 
 ### ***Value proposition***
 
+“EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher”
+
 ### ***User Stories***
 
 1. As a student, I can request challenges so that I can practice for my exams.
