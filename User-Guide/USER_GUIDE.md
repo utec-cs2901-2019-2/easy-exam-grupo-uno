@@ -58,5 +58,10 @@
 ## **Non-functional requirements**
 
 ## **Glosary**
+   1. Exercises/Questions : They are an interrogative approach about some respective topic, which is shown in textual form.
+   2. Test/Exam : A bunch of questions on a specific topic.
+   2. Challenges : A section for students where they can find exercises for them to practice.
+   3. Create Exam : A section for teachers where they can create tests. 
+
 
 ## **Survey and Interviews**
