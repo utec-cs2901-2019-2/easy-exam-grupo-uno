@@ -3,8 +3,10 @@
 ## **Target user profile, value proposition, and user stories**
 
 ### ***Target user profile***
+Charles, 20, is a computer science student at UTEC, and currently studies from Stanford, mit,youtube, and any book he can find.He is limited by the lack of answers most of these have, and has to find new sources for every course he takes.
 
 ### ***Value proposition***
+EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher. It does it in a centralized manner, using constantly validated problems on most subjects just a simple step away.
 
 ### ***User Stories***
 
