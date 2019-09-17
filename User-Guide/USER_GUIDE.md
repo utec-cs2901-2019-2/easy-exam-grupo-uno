@@ -8,26 +8,7 @@
 
 “EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher”
 
-### ***User Stories***
-
-1. As a student, I can request challenges so that I can practice for my exams.
-2. As a Teacher, I can request to create exams so that I can make exams more easily and faster
-3. As a teacher , I can enter to create exams so that I can download new exams in pdf format. 
-4. As a teacher, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with the exam.
-5. As a user, I can log into the EasyExam.
-6. As a student, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with the challenge.
-7. As a student, I can create an account so I can login into challenge in EasyExam
-8. As a teacher, I can create an account so I can login into generate exam in EasyExam
-9. As a teacher, I can submit questions so that the banks of questions can grow
-10. As a teacher, I can choose which subject I want to get questions of so that my exam can be as specific as possible
-11. As a user, I can recover my password so that I can login into EasyExam
-12. As a student, I can exit the challenge mode so that safely exit EasyExam
-13. As student I can write my answer so I can know if it is right (nice to have)
-14. As teacher I can see the author’s profile of a problem so I can know who is him (not useful)
-15. As teacher I can download exam at first time without login so I can know if it works(not useful)
-16. As student I can claim if an answer is not correct (not useful)
-17. As teacher I can see the answers of my downloaded exam (must have)
-18. As teacher I can write equations with latex so uploaded problems look well (nice to have)
+### ***[User Stories](https://github.com/utec-cs2901-2019-2/easy-exam-grupo-uno/blob/develop/User-Guide/User_Stories.md)***
 
 ## **Use Cases**
 
