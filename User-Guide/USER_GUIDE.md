@@ -83,7 +83,9 @@
     6. Use case ends.
 
 ## **Non-functional requirements**
-
+   1. As a user I can use EasyExam in my mobilephone the same way I use it in a desktop.
+   2. As a teacher I can download my exams really fast.
+   3. As a user I can have fast transitions between windows.
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
    2. Student: User that is only able to enter challenge mode.
