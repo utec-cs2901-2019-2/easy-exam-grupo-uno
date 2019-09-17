@@ -16,10 +16,10 @@
 4. As a teacher, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with the exam.
 5. As a user, I can log into the EasyExam.
 6. As a student, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with the challenge.
-7. As a student, I can request as many questions as I can so that I can practise all that I want
-8. As a teacher, I can choose which subject I want to get questions of so that my exam can be as specific as possible
+7. As a student, I can create an account so I can login into challenge in EasyExam
+8. As a teacher, I can create an account so I can login into generate exam in EasyExam
 9. As a teacher, I can submit questions so that the banks of questions can grow
-10. As a user, I can create an account so I can login into EasyExam
+10. As a teacher, I can choose which subject I want to get questions of so that my exam can be as specific as possible
 11. As a user, I can recover my password so that I can login into EasyExam
 12. As a student, I can exit the challenge mode so that safely exit EasyExam
 
