@@ -41,7 +41,7 @@
     * Student selects subject.
     
 * **Use case**:
-    1. System filters exercises ,from the Databse,  by  student-asked subject.
+    1. System filters exercises ,from the Database,  by  student-asked subject.
     2. System selects randomly chosen exercises .
     3. Use case ends.
 
@@ -98,7 +98,7 @@
     1. User selects option forget password.
     2. User write his email.
     3. User opens a message with his new password.
-    5. Use use his new password to login.
+    5. User use his new password to login.
     6. Use case ends.
 
 ## **Non-functional requirements**
