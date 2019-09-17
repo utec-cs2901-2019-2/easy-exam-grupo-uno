@@ -55,6 +55,36 @@
     5. Student views the exercises.
     6. Use case ends.
 
+## 3. _Generate Exams_
+* **Software System**: EasyExam (EE)
+* **Use case**: UC03 - Generate Exams
+* **Actor**: Teacher,System(EE)
+* **Preconditions**:
+   * Teacher is logged in
+   * The topics are selected
+   * The number of questions has been chosen
+* **Use case**:
+    1. System selects the most rated exercises
+    2. System filters the exercises by topic
+    3. System selects some random exercises
+    4. Use case ends.
+    
+## 4. _Create Exams_
+* **Software System**: EasyExam (EE)
+* **Use case**: UC04 - Create Exams
+* **Actor**: Teacher,System(EE)
+* **Preconditions**:
+   * Teacher is logged in
+* **Use case**:
+    1. Teacher selects topic from the selector
+    2. Teacher selects the number of questions
+    3. System generates an exam(UC03)
+    4. System previews the exam
+    5. Teacher views the exam
+    6. Teacher rates the exam
+    7. Teacher downloads the exam
+    8. Use case ends.
+
 ## **Non-functional requirements**
 
 ## **Glossary**
