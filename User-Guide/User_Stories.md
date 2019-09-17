@@ -26,6 +26,7 @@
 * As a student i can see the answers from my challenge.
 * As a user i can edit my profile info.
 * As a student i can select the topics for my challenge
+* As a student, I can rate a question's difficulty rating
 
 
 
