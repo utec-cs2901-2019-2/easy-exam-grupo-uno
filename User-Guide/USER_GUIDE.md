@@ -22,6 +22,12 @@
 10. As a teacher, I can choose which subject I want to get questions of so that my exam can be as specific as possible
 11. As a user, I can recover my password so that I can login into EasyExam
 12. As a student, I can exit the challenge mode so that safely exit EasyExam
+13. As student I can write my answer so I can know if it is right (nice to have)
+14. As teacher I can see the author’s profile of a problem so I can know who is him (not useful)
+15. As teacher I can download exam at first time without login so I can know if it works(not useful)
+16. As student I can claim if an answer is not correct (not useful)
+17. As teacher I can see the answers of my downloaded exam (must have)
+18. As teacher I can write equations with latex so uploaded problems look well (nice to have)
 
 ## **Use Cases**
 
@@ -35,7 +41,7 @@
     * Student selects subject.
     
 * **Use case**:
-    1. System filters exercises ,from the Databse,  by  student-asked subject and difficulty.
+    1. System filters exercises ,from the Databse,  by  student-asked subject.
     2. System selects randomly chosen exercises .
     3. Use case ends.
 
@@ -49,11 +55,10 @@
     * Random exercises will be shown, with no pdf-download option.
 * **Use case**:
     1. Student selects subject.
-    2. Student selects difficulty level.
-    3. System generates a challenge(UC01).
+    2. System generates a challenge(UC01).
     3. System shows exercises.
-    5. Student views the exercises.
-    6. Use case ends.
+    4. Student views the exercises.
+    5. Use case ends.
 
 ## 3. _Generate Exams_
 * **Software System**: EasyExam (EE)
@@ -84,6 +89,17 @@
     6. Teacher rates the exam
     7. Teacher downloads the exam
     8. Use case ends.
+
+## 5. _Recovery Password_
+* **Software System**: EasyExam (EE)
+* **Use case**: UC03 - Recovery Password
+* **Actor**: User,System(EE) 
+* **Use case**:
+    1. User selects option forget password.
+    2. User write his email.
+    3. User opens a message with his new password.
+    5. Use use his new password to login.
+    6. Use case ends.
 
 ## **Non-functional requirements**
 
