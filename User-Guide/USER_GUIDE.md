@@ -99,7 +99,7 @@
    9. Log out: Safely exit the platform as a teacher or student.
    10. Recover Password: Request to the platform to generate a new password to log in.
    11. Subject: Topic of any course of which questions are generated.
-   12. Calify: Grade the question either good or bad.
+   12. Qualify: Grade the question either good or bad.
 
 
 ## **Survey and Interviews**
