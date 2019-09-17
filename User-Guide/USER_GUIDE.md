@@ -33,7 +33,7 @@
 * **Preconditions**: 
     * Student is logged in. 
     * Student selects subject.
-    * Student selects difficulty level.
+    
 * **Use case**:
     1. System filters exercises ,from the Databse,  by  student-asked subject and difficulty.
     2. System selects randomly chosen exercises .
