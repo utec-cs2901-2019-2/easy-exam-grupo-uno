@@ -87,7 +87,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     6. Use case ends.
 
 ## **Non-functional requirements**
-   1. As a user I can use EasyExam in my mobilephone the same way I use it in a desktop.
+   1. As a student I can have every functionality of the desktop version in the mobile version
    2. As a teacher I can download my exams really fast.
    3. As a user I can have fast transitions between windows.
    4. As a user I can have a responsive page
