@@ -3,8 +3,12 @@
 ## **Target user profile, value proposition, and user stories**
 
 ### ***Target user profile***
+Charles, 20, is a computer science student at UTEC, and currently studies from open coursework initiatives, youtube lectures, and any book he can find. He  gets stumped whenever he doesen't know the answer to a question,as most of these offer no step by step solutions. Also,he has to find new sources for every course he takes, for most of these sources are not complete.
+
+Archibald, 45 , teaches software engineering at a top university. He enjoys contributing to stackoverflow, mathexchange and codereview. He needs to make a 80 question test for this course, so he ends up making 110 problems and discarding 30. He feels that there must be a better way to write his exams.
 
 ### ***Value proposition***
+EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher. It does it in a centralized manner, using constantly validated problems on most subjects just a simple step away.
 
 “EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher. It does it in a centralized manner, using constantly validated problems on most subjects just a simple step away.”
 
@@ -99,6 +103,5 @@
    10. Recover Password: Request to the platform to generate a new password to log in.
    11. Subject: Topic of any course of which questions are generated.
    12. Qualify: Grade the question either good or bad.
-
 
 ## **Survey and Interviews**
