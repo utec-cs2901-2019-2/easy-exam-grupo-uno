@@ -3,7 +3,9 @@
 ## **Target user profile, value proposition, and user stories**
 
 ### ***Target user profile***
-Charles, 20, is a computer science student at UTEC, and currently studies from open coursework initiatives, youtube lectures, and any book he can find. He  gets stumped whenever hr doesen't know the anser to a question,for most of these offer no step by step solutions, and has to find new sources for every course he takes, for most of these sources are not complete.
+Charles, 20, is a computer science student at UTEC, and currently studies from open coursework initiatives, youtube lectures, and any book he can find. He  gets stumped whenever he doesen't know the answer to a question,as most of these offer no step by step solutions. Alseo,he has to find new sources for every course he takes, for most of these sources are not complete.
+
+
 
 ### ***Value proposition***
 EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher. It does it in a centralized manner, using constantly validated problems on most subjects just a simple step away.
