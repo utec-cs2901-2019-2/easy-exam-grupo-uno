@@ -90,6 +90,8 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    1. As a user I can use EasyExam in my mobilephone the same way I use it in a desktop.
    2. As a teacher I can download my exams really fast.
    3. As a user I can have fast transitions between windows.
+   4. As a user I can have a responsive page
+   5. As a teacher I can generate exams 24/7
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
    2. Student: User that is only able to enter challenge mode.
