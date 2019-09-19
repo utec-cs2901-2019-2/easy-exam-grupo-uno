@@ -87,9 +87,11 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     6. Use case ends.
 
 ## **Non-functional requirements**
-   1. As a user I can use EasyExam in my mobilephone the same way I use it in a desktop.
+   1. As a student I can have every functionality of the desktop version in the mobile version
    2. As a teacher I can download my exams really fast.
    3. As a user I can have fast transitions between windows.
+   4. As a user I can have a responsive page
+   5. As a teacher I can generate exams 24/7
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
    2. Student: User that is only able to enter challenge mode.
@@ -105,3 +107,74 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    12. Qualify: Grade the question either good or bad.
 
 ## **Survey and Interviews**
+
+   There is two kind of surveys. The first survey was developed to students and the second survey was developed to professors. We gathered 22 surveys from students and 9 surveys from professors. Besides we made 2 interviews at UTEC. 
+   The results of the data collection indicate that there is a high willingness on the part of the teachers to be able to use third-party material to be able to generate their exams. At the same time, they are willing to collaborate with giving exercises to the repository. Regarding the students, many of them answered the last question of the survey (would you be willing to practice with solved exercises online?) In a positive way to 100%. However, students a high percentage of students said that not being sure that their answer is correct is one of the challenges they face when practicing problems for an exam.
+   
+   **Questions**:
+   
+          1. ¿Dónde labora y que curso dicta?
+          
+          2. ¿Se sentiría cómodo si cambia la manera en la que ha venido trabajando?   
+          
+          3. ¿Cuáles son los principales problemas que afronta al generar un examen?
+          
+          4. ¿De dónde suele recolectar las preguntas?
+          
+          5. ¿Es abierto a compartir alguna pregunta de su examen a algún otro profesor?
+          
+          6. ¿Qué herramientas utiliza en tu día a día?
+          
+          7. ¿Qué determina la dificultad de un examen?
+          
+          8. Al realizar un examen, ¿Tiene las soluciones de antemano o las realiza después? ¿Por qué?
+          
+          9. ¿Utiliza plantillas para sus exámenes?
+      
+   **First Interview** : 
+   
+   Answer 1: Henry Gallegos , ICC
+   
+   Answer 2: Sí
+   
+   Answer 3: Encontrar un adecuado nivel de dificultad para el examen
+   
+   Answer 4: De algunas paginas web
+   
+   Answer 5: Sí
+   
+   Answer 6: Canvas, Hackerrank
+   
+   Answer 7: El análisis que implica resolver el problema
+   
+   Answer 8: Sí tengo las soluciones antes
+   
+   Answer 9: Sí
+   
+   **Second Interview** : 
+
+   Answer 1: Teofilo Chambilla, Base de datos, POO 1
+   
+   Answer 2: Sí
+   
+   Answer 3:Diseñar las preguntas para los estudiantes
+   
+   Answer 4: Intercambia material con colegas (profesor. Heider)
+   
+   Answer 5: Sí
+   
+   Answer 6: Hackerrank, Drive
+   
+   Answer 7: Encontrar una solución de una forma no tan obvia
+   
+   Answer 8: Sí 
+   
+   Answer 9: Sí
+   
+   Links Student Survey :
+   https://docs.google.com/forms/d/1xXwVFp3H4BrOxxErT0H3xJp7Dg65gsJmZnlvEMpLTOM
+   
+   Links Professor Survey :
+   https://docs.google.com/forms/d/1rlYnMQLkwsUv3-l0O5UjqI_MbW8jMV34tQDTwbJTA5M
+   
+   
