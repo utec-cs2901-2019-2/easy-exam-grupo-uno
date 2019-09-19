@@ -109,7 +109,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 ## **Survey and Interviews**
 
    There is two kind of surveys. The first survey was developed to students and the second survey was developed to professors. We gathered 22 surveys from students and 9 surveys from professors. Besides we made 2 interviews at UTEC. 
-   The results of the data gathering 
+   The results of the data collection indicate that there is a high willingness on the part of the teachers to be able to use third-party material to be able to generate their exams. At the same time, they are willing to collaborate with giving exercises to the repository. Regarding the students, many of them answered the last question of the survey (would you be willing to practice with solved exercises online?) In a positive way to 100%. However, students a high percentage of students said that not being sure that their answer is correct is one of the challenges they face when practicing problems for an exam.
    
    **Questions**:
    
