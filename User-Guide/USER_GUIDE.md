@@ -111,7 +111,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    There is two kind of surveys. The first survey was developed to students and the second survey was developed to professors. We gathered 22 surveys from student and 9 surveys from professors. Besides we made 2 interviews at UTEC. 
    The results of the data gathering 
    
-   **Questions:
+   **Questions**:
    
           1. ¿Dónde labora y que curso dicta?
           
@@ -131,7 +131,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
           
           9. ¿Utiliza plantillas para sus exámenes?
       
-   *First Interview : 
+   **First Interview : 
    
    Answer 1: Henry Gallegos , ICC
    
@@ -151,7 +151,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    
    Answer 9: Sí
    
-   *Second Interview : 
+   **Second Interview : 
 
    Answer 1: Teofilo Chambilla, Base de datos, POO 1
    
