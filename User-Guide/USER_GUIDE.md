@@ -108,7 +108,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 
 ## **Survey and Interviews**
 
-   There is two kind of surveys. The first survey was developed to students and the second survey was developed to professors. We gathered 22 surveys from student and 9 surveys from professors. Besides we made 2 interviews at UTEC. 
+   There is two kind of surveys. The first survey was developed to students and the second survey was developed to professors. We gathered 22 surveys from students and 9 surveys from professors. Besides we made 2 interviews at UTEC. 
    The results of the data gathering 
    
    **Questions**:
