@@ -131,7 +131,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
           
           9. ¿Utiliza plantillas para sus exámenes?
       
-   **First Interview : 
+   **First Interview** : 
    
    Answer 1: Henry Gallegos , ICC
    
@@ -151,7 +151,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    
    Answer 9: Sí
    
-   **Second Interview : 
+   **Second Interview** : 
 
    Answer 1: Teofilo Chambilla, Base de datos, POO 1
    
