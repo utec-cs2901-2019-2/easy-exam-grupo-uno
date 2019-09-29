@@ -12,7 +12,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 
 “EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher. It does it in a centralized manner, using constantly validated problems on most subjects just a simple step away.”
 
-### ***[User Stories](https://github.com/utec-cs2901-2019-2/easy-exam-grupo-uno/blob/develop/User-Guide/User_Stories.md)***
+### ***[User Stories](https://github.com/utec-cs2901-2019-2/easy-exam-grupo-uno/blob/master/User-Guide/User_Stories.md)***
 
 ## **Use Cases**
 
