@@ -31,7 +31,22 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 * Creating account: ***register***
     * Verify account
 * Verify Credentials: ***login***
-* 
+    * Usage of tokens
+### **User Actions**
+#### **Teacher**
+* Generate Exam 
+    * Choose subject
+* Post exercises
+* Review exercises
+* Download exam/answers
+### **Student**     
+* Generate Challenge
+    * Choose subject
+* Review exercises
+* Show answers
+### **Data Management**
+* Query Optimization
+
 
 
 
@@ -132,24 +147,24 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    
    **Questions**:
    
-          1. ¿Dónde labora y que curso dicta?
-          
-          2. ¿Se sentiría cómodo si cambia la manera en la que ha venido trabajando?   
-          
-          3. ¿Cuáles son los principales problemas que afronta al generar un examen?
-          
-          4. ¿De dónde suele recolectar las preguntas?
-          
-          5. ¿Es abierto a compartir alguna pregunta de su examen a algún otro profesor?
-          
-          6. ¿Qué herramientas utiliza en tu día a día?
-          
-          7. ¿Qué determina la dificultad de un examen?
-          
-          8. Al realizar un examen, ¿Tiene las soluciones de antemano o las realiza después? ¿Por qué?
-          
-          9. ¿Utiliza plantillas para sus exámenes?
-      
+1. ¿Dónde labora y que curso dicta?
+
+2. ¿Se sentiría cómodo si cambia la manera en la que ha venido trabajando?   
+
+3. ¿Cuáles son los principales problemas que afronta al generar un examen?
+
+4. ¿De dónde suele recolectar las preguntas?
+
+5. ¿Es abierto a compartir alguna pregunta de su examen a algún otro profesor?
+
+6. ¿Qué herramientas utiliza en tu día a día?
+
+7. ¿Qué determina la dificultad de un examen?
+
+8. Al realizar un examen, ¿Tiene las soluciones de antemano o las realiza después? ¿Por qué?
+
+9. ¿Utiliza plantillas para sus exámenes?
+
    **First Interview** : 
    
    Answer 1: Henry Gallegos , ICC
