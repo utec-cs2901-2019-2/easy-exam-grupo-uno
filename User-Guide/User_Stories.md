@@ -2,10 +2,10 @@
 * As a student, I can request challenges so that I can practice for my exams.
 * As a Teacher, I can request to create exams so that I can make exams easier and faster.
 * As a teacher , I can enter to create exams so that I can download new exams in pdf format. 
-* As a teacher, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with the exam.
+* As a teacher, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with them.
 * As a user, I can log into EasyExam.
-* As a student, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with the challenge.
-* As a student, I can create an account so I can login into challenge in EasyExam.
+* As a student, I can qualify the exercises that the EasyExam gave me so that I can tell them how happy I am with them.
+* As a student, I can create an account so I can login into challenges in EasyExam.
 * As a teacher, I can choose which subject I want to get questions of so that my exam can be as specific as possible.
 * As a teacher, I can submit questions so that the banks of questions can grow.
 * As a teacher, I can create an account so I can login into generate exam in EasyExam
