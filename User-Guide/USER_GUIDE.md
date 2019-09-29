@@ -12,7 +12,31 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 
 “EasyExam gives you exercises that makes you a great student and saves you time to be a great teacher. It does it in a centralized manner, using constantly validated problems on most subjects just a simple step away.”
 
-### ***[User Stories](https://github.com/utec-cs2901-2019-2/easy-exam-grupo-uno/blob/master/User-Guide/User_Stories.md)***
+
+## **Requirements**
+
+### **Functional requirements**
+1. lorem 
+2. lorem
+
+### **Non-functional requirements**
+   1. As a student I can have every functionality of the desktop version in the mobile version
+   2. As a teacher I can download my exams really fast.
+   3. As a user I can have fast transitions between windows.
+   4. As a user I can have a responsive page
+   5. As a teacher I can generate exams 24/7
+
+## **Features**
+### **Accounts**
+* Creating account: ***register***
+    * Verify account
+* Verify Credentials: ***login***
+* 
+
+
+
+## **[User Stories](https://github.com/utec-cs2901-2019-2/easy-exam-grupo-uno/blob/master/User-Guide/User_Stories.md)**
+
 
 ## **Use Cases**
 
@@ -86,12 +110,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     5. User use his new password to login.
     6. Use case ends.
 
-## **Non-functional requirements**
-   1. As a student I can have every functionality of the desktop version in the mobile version
-   2. As a teacher I can download my exams really fast.
-   3. As a user I can have fast transitions between windows.
-   4. As a user I can have a responsive page
-   5. As a teacher I can generate exams 24/7
+
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
    2. Student: User that is only able to enter challenge mode.
