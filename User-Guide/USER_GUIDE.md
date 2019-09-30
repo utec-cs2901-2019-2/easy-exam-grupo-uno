@@ -30,6 +30,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 
 ### **Principal**
 * Integration of Spring and ReactJs 
+* Database creation
 ### **Accounts**
 * Creating account: ***register***
     * Verify account
