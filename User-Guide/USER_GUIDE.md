@@ -27,6 +27,9 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    5. As a teacher I can generate exams 24/7
 
 ## **Features**
+
+### **Principal**
+* Integration of Spring and ReactJs 
 ### **Accounts**
 * Creating account: ***register***
     * Verify account
