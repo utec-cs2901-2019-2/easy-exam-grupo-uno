@@ -8,8 +8,10 @@
 ### Architecture
 
 #### Class Diagram
+![Class Diagram](images/EasyExam.vpd.png)
 
 #### Architecture Diagram
 
-##### Component A
+##### Logic
+![Logic Component](images/Main.svg)
 #### Interaction between Components
