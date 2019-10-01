@@ -143,6 +143,10 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    10. Recover Password: Request to the platform to generate a new password to log in.
    11. Subject: Topic of any course of which questions are generated.
    12. Qualify: Grade the question either good or bad.
+   13. Register: Generate credentials for logging in.
+   14. Credentials: Username and password.
+   15. Username : Name by which the user will identify themselves.  
+   16. Password: Private string by which the user will confirm identification.
 
 ## **Survey and Interviews**
 
