@@ -9,10 +9,10 @@
 * Generate challenge : ***Andre Segovia*** , ***Herless Alvarado*** & ***Fernando De Los Heros***
 * Post Exercises (w/ answers) : ***Jeffrey Orihuela***
 
-## **v.14**
+## **v.1.4**
 * Verify Credentials : ***Jeffrey Orihuela***
 * Review exercises (teacher/student): ***Andre Segovia*** , ***Herless Alvarado*** & ***Fernando De Los Heros***
-* Download answers : ***Jose Chavez***
+* Download exam : ***Jose Chavez***
 * Show answers : ***Jose Chavez***
 
 ## **v2.0**
