@@ -13,5 +13,5 @@
 #### Architecture Diagram
 
 ##### Logic
-![Logic Component](images/Main.svg)
+![Logic Component](images/Controller.svg)
 #### Interaction between Components
