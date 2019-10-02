@@ -18,8 +18,8 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 ### **Functional requirements**
 1. As a student I can access challenges
 2. As a teacher I can generate exams
-3. As a student I can rate questions
-4. As a teacher I can submit questions
+3. As a student I can rate questions to be able to access further ones
+4. As a teacher I can submit questions to be able to be able to generate more exams
 5. As a user, I can log in
 6. As a user, I can recover my Password
 7. As a tecaher, I can check the answers for my exams
