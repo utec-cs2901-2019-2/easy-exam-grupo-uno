@@ -14,7 +14,7 @@ Easy exam is a plataform that helps both students and teachers streamline their 
 
 #### Architecture Diagram
 
-##### Logic
+##### Logic/Controller
 ![Logic Component](images/Controller.png)
 #### Interaction between Components
 ## **Glossary**
