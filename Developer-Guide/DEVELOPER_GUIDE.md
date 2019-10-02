@@ -1,6 +1,22 @@
 # **Developer Guide**
 ## Introduction
 Easy exam is a plataform that helps both students and teachers streamline their problem-obtainig needs. It does this by using collaborative problem pools that randomly give out exersises bases on tags.It uses circular feedback between studying students and creating teachers, forcing a continuous feedback loop that helps to give the best possible quality for everyone involved.
+
+
+## Features
+
+## Design 
+
+### Architecture
+
+#### Class Diagram
+![Class Diagram](images/EasyExam.vpd.png)
+
+#### Architecture Diagram
+
+##### Logic
+![Logic Component](images/Controller.png)
+#### Interaction between Components
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
    2. Student: User that is only able to enter challenge mode.
@@ -18,18 +34,3 @@ Easy exam is a plataform that helps both students and teachers streamline their 
    14. Credentials: Username and password.
    15. Username : Name by which the user will identify themselves.  
    16. Password: Private string by which the user will confirm identification.
-
-## Features
-
-## Design 
-
-### Architecture
-
-#### Class Diagram
-![Class Diagram](images/EasyExam.vpd.png)
-
-#### Architecture Diagram
-
-##### Logic
-![Logic Component](images/Controller.png)
-#### Interaction between Components
