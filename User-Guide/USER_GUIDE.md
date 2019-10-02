@@ -73,6 +73,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     2. System selects randomly chosen exercises .
     3. Use case ends.
 
+<img src="img/Use Case Diagram Generate Challenge.png">
 
 ## 2. _Accessing Challenges_
 * **Software System**: EasyExam (EE)
@@ -88,6 +89,8 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     4. Student views the exercises.
     5. Use case ends.
 
+<img src="img/Accesing Challenge.png">
+
 ## 3. _Generate Exams_
 * **Software System**: EasyExam (EE)
 * **Use case**: UC03 - Generate Exams
@@ -101,6 +104,8 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     2. System filters the exercises by topic
     3. System selects some random exercises
     4. Use case ends.
+    
+<img src="img/Use Case Diagram Generate Exam.jpg">
     
 ## 4. _Create Exams_
 * **Software System**: EasyExam (EE)
@@ -117,6 +122,8 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     6. Teacher rates the exam
     7. Teacher downloads the exam
     8. Use case ends.
+    
+<img src="img/Screenshot from 2019-10-01 10-03-19.png">
 
 ## 5. _Recovery Password_
 * **Software System**: EasyExam (EE)
@@ -129,6 +136,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
     5. User use his new password to login.
     6. Use case ends.
 
+<img src="img/Recovery Password.png">
 
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
