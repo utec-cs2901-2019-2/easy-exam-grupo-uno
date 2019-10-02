@@ -20,7 +20,8 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 2. As a teacher I can generate exams
 3. As a student I can rate questions
 4. As a teacher I can submit questions
-5. 
+5. As a user, I can log in
+6. As a user, I can recover my Password
 
 ### **Non-functional requirements**
    1. As a student I can have every functionality of the desktop version in the mobile version
