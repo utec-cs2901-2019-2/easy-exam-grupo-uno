@@ -155,6 +155,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
    14. Credentials: Username and password.
    15. Username : Name by which the user will identify themselves.  
    16. Password: Private string by which the user will confirm identification.
+   17. Answers: See the answers of a generated exam.
 
 ## **Survey and Interviews**
 
