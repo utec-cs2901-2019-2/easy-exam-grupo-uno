@@ -8,14 +8,20 @@ Easy exam is a plataform that helps both students and teachers streamline their 
 ## Design 
 
 ### Architecture
+![Architecture Diagram](images/ArchitectureDiagram.png)
 
 #### Class Diagram
 ![Class Diagram](images/EasyExam.vpd.png)
 
-#### Architecture Diagram
+#### View
+![View Component](images/ViewDiagram.png)
 
-##### Logic/Controller
+#### Logic/Controller
 ![Logic Component](images/Controller.png)
+
+### Model
+![Model Component](images/ModelDiagram.png)
+
 #### Interaction between Components
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
