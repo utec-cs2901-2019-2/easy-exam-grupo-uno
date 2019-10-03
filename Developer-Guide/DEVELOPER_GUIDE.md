@@ -33,19 +33,19 @@ Easy exam is a plataform that helps both students and teachers streamline their 
 ### Architecture
 ![Architecture Diagram](images/ArchitectureDiagram.png)
 
-#### Class Diagram
+### Class Diagram
 ![Class Diagram](images/EasyExam.vpd.png)
 
-#### View
+### View
 ![View Component](images/ViewDiagram.png)
 
-#### Logic/Controller
+### Logic/Controller
 ![Logic Component](images/Controller.png)
 
 ### Model
 ![Model Component](images/ModelDiagram.png)
 
-#### Interaction between Components
+### Interaction between Components
 **Login**
 ![Login](images/Interaccion-Login.png)
 **SignUp**
