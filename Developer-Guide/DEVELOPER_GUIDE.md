@@ -5,6 +5,29 @@ Easy exam is a plataform that helps both students and teachers streamline their 
 
 ## Features
 
+### **Principal**
+* Integration of Spring and ReactJs 
+* Database creation
+### **Accounts**
+* Creating account: ***register***
+    * Verify account
+* Verify Credentials: ***login***
+    * Usage of tokens
+### **User Actions**
+#### **Teacher**
+* Generate Exam 
+    * Choose subject
+* Post exercises
+* Review exercises
+* Download exam/answers
+### **Student**     
+* Generate Challenge
+    * Choose subject
+* Review exercises
+* Show answers
+### **Data Management**
+* Query Optimization
+
 ## Design 
 
 ### Architecture
