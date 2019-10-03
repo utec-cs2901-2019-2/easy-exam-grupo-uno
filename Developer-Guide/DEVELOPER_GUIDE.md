@@ -46,10 +46,12 @@ Easy exam is a plataform that helps both students and teachers streamline their 
 ![Model Component](images/ModelDiagram.png)
 
 ### Interaction between Components
-**Login**
+#### Login
 ![Login](images/Interaccion-Login.png)
-**SignUp**
+#### SignUp
 ![SignUp](images/Interaccion-SignUp.png)
+#### Create Exam
+![CreateExam](images/Interaccion-createExam.png)
 ## **Glossary**
    1. Teacher: User that is only able to generate exams.
    2. Student: User that is only able to enter challenge mode.
