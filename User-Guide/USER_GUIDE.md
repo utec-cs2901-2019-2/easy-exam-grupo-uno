@@ -29,7 +29,7 @@ EasyExam gives you exercises that makes you a great student and saves you time t
 
 ### **Non-functional requirements**
    1. As a student I can have every functionality of the desktop version in the mobile version
-   2. As a teacher I can download my exams really fast.
+   2. As a teacher I can download my exams between 1 to 10 seconds.
    3. As a user I can have fast transitions between windows.
    4. As a user I can have a responsive page
    5. As a teacher I can generate exams 24/7
